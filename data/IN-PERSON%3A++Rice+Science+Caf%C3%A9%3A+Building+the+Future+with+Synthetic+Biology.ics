@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//RemoteApi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://www.meetup.com/Houston-Secret-Science-Club/events/
+ 281402171/ical/IN-PERSON:++Rice+Science+Café:+Building+the+Future+with+S
+ ynthetic+Biology.ics
+X-WR-CALNAME:Events - IN-PERSON%3A  Rice Science Caf%C3%A9%3A Building th
+ e Future with Synthetic Biology.ics
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20211019T021211Z
+DTSTART;TZID=America/Chicago:20211028T190000
+DTEND;TZID=America/Chicago:20211028T200000
+STATUS:CONFIRMED
+SUMMARY:IN-PERSON:  Rice Science Café: Building the Future with Synthetic
+  Biology
+DESCRIPTION:Houston Science Enthusiasts\nThursday\, October 28 at 7:00 PM
+ \n\nThe Rice Science Café\, presented by the Weiss School of Natural Sci
+ ences (https://naturalsciences.rice.edu/)\, returns to a live format at 
+ The Ion\, hub...\n\nhttps://www.meetup.com/Houston-Secret-Science-Club/e
+ vents/281402171/
+CLASS:PUBLIC
+CREATED:20211013T170443Z
+GEO:29.77;-95.40
+LOCATION:The Ion (4201 Main St Suite 120\, Houston\, TX 77002)
+URL:https://www.meetup.com/Houston-Secret-Science-Club/events/281402171/
+LAST-MODIFIED:20211016T195622Z
+UID:event_281402171@meetup.com
+END:VEVENT
+END:VCALENDAR
